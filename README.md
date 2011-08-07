@@ -1,4 +1,4 @@
-## Rapleaf
+## CodeIgniter Rapleaf Spark
 This CodeIgniter Spark will allow you to query Rapleaf's API for personal information on people based off of their email address and/or postal information.
 
 Available query fields: _'email', 'first', 'middle', 'last', 'street', 'city', 'state', 'zip4'_
