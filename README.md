@@ -51,7 +51,7 @@ See config/rapleaf to:
         (
             [age] => 25-34
             [gener] => Male
-            [city] => SanFrancisco
+            [city] => San Francisco
             [state] => California
             [country] => United States
         )
