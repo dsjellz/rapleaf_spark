@@ -10,7 +10,7 @@ See config/rapleaf to:
 *   change email encoding options (sha1, md5, url)
 *   insert your own api key (See http://www.rapleaf.com/ to obtain a free key)
 *   turn debug mode off/on
-*   turn display of available frields off/on
+*   turn display of available fields off/on
 
 #### Request information by email address
     $this->rapleaf->personalize('youremail@address.com');
