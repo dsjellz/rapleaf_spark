@@ -17,7 +17,7 @@ Before using, the spark must be loaded like any other spark
 
 	$this->load->spark('rapleaf/0.0.1');
 
-### Single Person Queries
+### Single Person Query
 
 __Request information by email address__
 
