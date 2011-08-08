@@ -12,12 +12,12 @@ See config/rapleaf to:
 *   turn debug mode off/on
 *   turn display of available fields off/on
 
-### Loading the Spark
+## Loading the Spark
 Before using, the spark must be loaded like any other spark
 
 	$this->load->spark('rapleaf/0.0.1');
 
-### Single Person Query
+## Single Person Query
 
 __Request information by email address__
 
@@ -39,9 +39,9 @@ __Example Response__
         [country] => United States
     )
 
-### Bulk Requests
+## Bulk Requests
 
-__Request information by multiple fields__
+__Request information for multiple people__
 	
     $query = array(
          array('first' => 'John', 'last' => 'Doe', 'email' => 'johndoe@example.com'),
